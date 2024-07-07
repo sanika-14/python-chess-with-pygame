@@ -1,4 +1,4 @@
-# Chess game in Python using Pygame
+# Two Player Chess game in Python using Pygame
 Welcome to my chess game project built entirely in Python using Pygame!
 
 1. Install Pygame: 
